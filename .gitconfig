@@ -1,5 +1,6 @@
 [user]
 	name = Matt Kelly
+    name = mattkelly@gmail.com
 [core]
 	excludesfile = /Users/mattkelly/.gitignore_global
 [difftool "sourcetree"]

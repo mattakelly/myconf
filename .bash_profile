@@ -22,5 +22,5 @@ alias srcprof='source ~/.bash_profile'
 alias sm='ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no'
 alias myconf='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 
-# Work machine specific things
-source ~/.work_profile 
+# Machine specific things
+source ~/.machine_profile 
